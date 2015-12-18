@@ -13,4 +13,4 @@ decimal maxDec = decimal.MaxValue;
 float maxFloat = float.MaxValue;
 
 //A float is a 32 bit number with a maxValue of 1.797693134E+308 with 15 decimals of precision
-double maxDouble = double.MaxValue;
+double maxDouble = double.MaxValue; 
