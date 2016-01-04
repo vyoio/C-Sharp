@@ -1,5 +1,5 @@
             string myname = "David";
-            int age = 30;
+            int age = 30;  
             Console.WriteLine(myname);
             Console.WriteLine(age);
             //the following uses a concatenate operation to combine two variables
